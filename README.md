@@ -1,4 +1,4 @@
-# FAST STEPS PROCESS IA
+# FAST STEPS PROCESS AI
 
 
 ##### Little codes fast step AI
