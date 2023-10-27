@@ -1,7 +1,7 @@
 # FAST STEPS PROCESS IA
 
 
-##### Little codes fast step IA
+##### Little codes fast step AI
 
 ## LoadFitsAndEfficientNet.ipynb
 ##### Explanetion about load fits process and how use EfficientNet to own dataset
